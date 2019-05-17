@@ -37,6 +37,4 @@ def thaistock(code):
 	return [title,stockprice,change,pchange,stockupdate]
 
 
-thaistock('ITD')
 
-thaistock('ITD')
