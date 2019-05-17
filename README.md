@@ -1,8 +1,6 @@
 # Uncle Engineer (uncleengineer)
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 สวัสดีจร้าาาาทุกคน ไลบรารี่นี้เป็นโปรแกรมที่ลุงเขียนขึ้นมาเพื่อเผยแพร่เป็นวิทยาทาน
 ให้ทุกคนได้ศึกษาภาษา Python แบบง่ายๆ อยากให้คนไทยเก่งเทีบยเท่าต่างชาติ ช่วย
